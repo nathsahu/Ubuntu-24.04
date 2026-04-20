@@ -29,8 +29,8 @@ wget https://raw.githubusercontent.com/23xvx/Termux-Ubuntu-Installer/main/Instal
 bash Install.sh 
 ```
 
-### Using ubuntu (if you have installed a desktop)
-- [USAGE.md](https://github.com/23xvx/Termux-Ubuntu-Installer/blob/main/USAGE.md)
+### Termux-x11 Setup (if you have installed a desktop)
+- [Termux-x11](https://github.com/nathsahu/Ubuntu-24.04/blob/main/USAGE.md)
 
 
 ### Third party applications :
